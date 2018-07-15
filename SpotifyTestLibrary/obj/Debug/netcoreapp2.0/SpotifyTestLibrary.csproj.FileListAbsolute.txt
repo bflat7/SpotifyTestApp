@@ -1,0 +1,5 @@
+C:\Dev\SpotifyTest\SpotifyTestLibrary\bin\Debug\netcoreapp2.0\SpotifyTestLibrary.deps.json
+C:\Dev\SpotifyTest\SpotifyTestLibrary\bin\Debug\netcoreapp2.0\SpotifyTestLibrary.dll
+C:\Dev\SpotifyTest\SpotifyTestLibrary\obj\Debug\netcoreapp2.0\SpotifyTestLibrary.csproj.CoreCompileInputs.cache
+C:\Dev\SpotifyTest\SpotifyTestLibrary\obj\Debug\netcoreapp2.0\SpotifyTestLibrary.AssemblyInfoInputs.cache
+C:\Dev\SpotifyTest\SpotifyTestLibrary\obj\Debug\netcoreapp2.0\SpotifyTestLibrary.AssemblyInfo.cs
